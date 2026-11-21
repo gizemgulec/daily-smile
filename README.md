@@ -1,15 +1,15 @@
-# merhaba-dunya 🐱
+# daily-smile 😊
 
 ```
  /\_/\
-( o.o )  merhaba dünya!
- > ^ <
+( ^.^ )  bugün de gülümse!
+ > ~ <
 ```
 
-Burası benim minik köşem. ☕✨
+Her güne bir gülümseme. ☀️💛
 
-- 🌱 Yeni bir şeyler öğreniyorum
-- 💛 Kod yazmayı seviyorum
-- 🚀 Daha nicelerine...
+- 🌱 Küçük ama tatlı şeyler
+- ✨ Her gün bir parça daha iyi
+- 🚀 Yavaş yavaş, ama severek
 
 > _"Her büyük yolculuk tek bir commit ile başlar."_
